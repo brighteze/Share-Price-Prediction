@@ -33,5 +33,5 @@ This project will be in two parts.
 * Accenture closing share price has been on a downward trend.
 * Data was differenced one to arrive at stationarity.
 * There was a slight bias in the data.
-* The modern performs pretty well in predicting the stock closing price.
+* The model performs pretty well in predicting the stock closing price.
 
