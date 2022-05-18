@@ -13,7 +13,7 @@ This project will be in two parts.
 * In the second part, I build a model to predict the stock closing prices.
 
 # Techniques Used
-* Wen scraping.
+* Web scraping.
 * Feature engineering.
 * Data wrangling.
 * Augmented Dickey–Fuller & Kwiatkowski–Phillips–Schmidt–Shin test for data stationarity.
